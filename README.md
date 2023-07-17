@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azka<br>
-<img align="center" alt="coding" height=500px width=500px src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/>
+<img align="center" alt="coding" height=250px width=250px src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/>
 </h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
